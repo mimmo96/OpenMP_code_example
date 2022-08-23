@@ -10,5 +10,5 @@ make file_name
 and run:
 
 ```
-.\file_name
+./file_name
 ```
